@@ -1,10 +1,11 @@
-head{
-  background-color:#7ABE7E;
-}
-title{
-  color:white;
-  font-family:"lobster";
-}
 body{
   background-color:#f8f9fa;
+  text-align:center;
+}
+header{
+  background-color:#7ABE7E 
+}
+h1{
+  color:white;
+  font-family:"lobster"; 
 }
